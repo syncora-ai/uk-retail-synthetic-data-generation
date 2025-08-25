@@ -45,7 +45,7 @@ These columns make this dataset ideal for demonstrating **synthetic data generat
 ## 📦 What You’ll Find in This Repo
 
 - **Synthetic Retail Dataset** – CSV format, ready for **LLM training** and modeling.  
-  [**Download Dataset**](https://github.com/syncora-ai/uk-retail-synthetic-data-generation)
+  [**Download Dataset**](https://github.com/syncora-ai/uk-retail-synthetic-data-generation/blob/main/uk-retail.csv)
 
 - **Jupyter Notebook** – Exploration and usage guide for the dataset.  
   [**Open Notebook**](https://github.com/syncora-ai/uk-retail-synthetic-data-generation/blob/main/notebook)
